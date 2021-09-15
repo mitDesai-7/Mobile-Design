@@ -2,19 +2,25 @@
 
 # Mobile UI design created using Figma 
 
-#Landing Page
+# Landing Page
 ![](landingPage.PNG)
-#Home Page
+
+# Home Page
 ![](homePage.PNG)
-#Drop menu Page
+
+# Drop menu Page
 ![](dropMenu.PNG)
-#Hover on Figma Page
+
+# Hover on Figma Page
 ![](hover1.PNG)
-#Hover on React Page
+
+# Hover on React Page
 ![](hover2.PNG)
-#Figma Page
+
+# Figma Page
 ![](figmaPage.PNG)
-#React Page
+
+# React Page
 ![](reactPage.PNG)
 
 
