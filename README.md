@@ -9,7 +9,7 @@
 ![](homePage.PNG)
 
 # Drop menu Page
-![](dropDownMenu.PNG)
+![](menuDrop.PNG)
 
 # Hover on Figma Page
 ![](hover1.PNG)
